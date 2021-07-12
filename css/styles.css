@@ -23,7 +23,7 @@ main{
     overflow: clip;
 }
 .skills{
-    background-image: url(/images/job.png);
+    background-image: url(images/job.png);
     object-fit: fill;
     width: 30%;
     height: fit-content;
