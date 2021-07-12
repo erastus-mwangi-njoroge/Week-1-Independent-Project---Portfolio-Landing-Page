@@ -16,4 +16,10 @@ main{
     margin-top: 5%;
   
 }
+.about{
+    justify-content: center;
+    width: 40%;
+    height: fit-content;
+    overflow: clip;
+}
 
