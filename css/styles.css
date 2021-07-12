@@ -9,4 +9,11 @@ h3{
     clip-path: circle(12rem at 16rem 12rem);
     align-content: center;
 }
+main{
+    display: flex;
+    align-content: space-around;
+    justify-self: stretch;
+    margin-top: 5%;
+  
+}
 
