@@ -23,7 +23,7 @@ main{
     overflow: clip;
 }
 .skills{
-    background-image: url(/assets/job.png);
+    background-image: url(https://github.com/indomitable-core/Week-1-Independent-Project---Portfolio-Landing-Page/blob/master/assets/job.png);
     object-fit: fill;
     width: 30%;
     height: fit-content;
